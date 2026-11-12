@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Hanken";
+    src: url('..\assets\fonts\HankenGrotesk-VariableFont_wght.ttf');
+}
+
+body {
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: hsl(221, 100%, 96%);
+    font-family: "Hanken", sans-serif;
+}
