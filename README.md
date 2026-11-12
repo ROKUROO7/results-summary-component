@@ -24,10 +24,10 @@ Users should be able to:
 ### Screenshot
 
 - Mobile 
-![MOBILE](.\screenshots\Screenshot-mob.png)
+![](.\screenshots\Screenshot-mob.png)
 
 - Desktop
-![DESKTOP](.\screenshots\Screenshot-desktop.png)
+![](.\screenshots\Screenshot-desktop.png)
 
 ### Links
 
