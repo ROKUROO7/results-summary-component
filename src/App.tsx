@@ -3,12 +3,8 @@ import { FetchData } from './hooks/fetchData'
 
 function App() {
   const data = FetchData();
-  let total : number = 0
-
-  for(let item of data) {
-    total = total + item.score
-  }
-  const average = Math.round(total / data.length)
+  
+  const average = data.length > 0 ? Math.round(data.reduce((sum, item) => sum + item.score, 0)/ data.length) : 0
 
   return (
     <>
