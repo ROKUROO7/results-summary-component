@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/results-summary-component-with-react-and-tailwindcss-ITUoDA_SMa)
 - Live Site URL: [live page](https://rokuroo7.github.io/results-summary-component/)
 
 ## My process
