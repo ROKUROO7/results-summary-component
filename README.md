@@ -24,10 +24,10 @@ Users should be able to:
 ### Screenshot
 
 - Mobile 
-  ![MOBILE](.\screenshots\Screenshot-mob.png)
+![MOBILE](.\screenshots\Screenshot-mob.png)
 
 - Desktop
-  ![DESKTOP](.\screenshots\Screenshot-desktop.png)
+![DESKTOP](.\screenshots\Screenshot-desktop.png)
 
 ### Links
 
@@ -43,5 +43,5 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [TailWindCss](https://tailwindcss.com/) - CSS framework
+- [TailwindCSS](https://tailwindcss.com/) - CSS framework
 
